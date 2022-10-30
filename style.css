@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.mainfont{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.custombg{
+    background-image: url("Gradient-Round-Up-Featured-Image.webp");
+}
+.custombg-2{
+    background-image: url("pcl-dark-grad1.webp");
+}
